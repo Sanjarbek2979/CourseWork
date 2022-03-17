@@ -1,0 +1,417 @@
+[ {
+  "id" : "aa09da87-546d-4031-9ce9-1c6aa27bc044",
+  "fullName" : null,
+  "createdDate" : 1641159778624,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "fullName" : "Raider™",
+    "createdDate" : 1641159665176,
+    "updatedDate" : 1641159665176,
+    "userRole" : "USER",
+    "smsCode" : "302649",
+    "chatId" : "923320761",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998976192979"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "foodName" : "Steak",
+    "amount" : 1,
+    "price" : 65000
+  },
+  "date" : 1641159778624,
+  "overall" : 65001
+}, {
+  "id" : "aa09da87-546d-4031-9ce9-1c6aa27bc044",
+  "fullName" : null,
+  "createdDate" : 1641159778624,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "fullName" : "Raider™",
+    "createdDate" : 1641159665176,
+    "updatedDate" : 1641159665176,
+    "userRole" : "USER",
+    "smsCode" : "302649",
+    "chatId" : "923320761",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998976192979"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "foodName" : "Steak",
+    "amount" : 1,
+    "price" : 65000
+  },
+  "date" : 1641159778624,
+  "overall" : 65001
+}, {
+  "id" : "93c7657b-660d-4929-bf95-202dd79dd1ea",
+  "fullName" : null,
+  "createdDate" : 1641159799588,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "fullName" : "Raider™",
+    "createdDate" : 1641159665176,
+    "updatedDate" : 1641159665176,
+    "userRole" : "USER",
+    "smsCode" : "302649",
+    "chatId" : "923320761",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998976192979"
+  },
+  "product" : {
+    "basketId" : "19d8b49d-986d-4b29-a56e-1d0efeb6ec14",
+    "userId" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "foodName" : "Lavash1",
+    "amount" : 5,
+    "price" : 19000
+  },
+  "date" : 1641159799588,
+  "overall" : 19005
+}, {
+  "id" : "01d0eb82-fc4e-4163-b41a-e95975af01c1",
+  "fullName" : null,
+  "createdDate" : 1641160240755,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "fullName" : "Норбиби",
+    "createdDate" : 1641160165585,
+    "updatedDate" : 1641160165585,
+    "userRole" : "USER",
+    "smsCode" : "290029",
+    "chatId" : "1133674969",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998919570566"
+  },
+  "product" : {
+    "basketId" : "995a54b9-75bb-48e0-9930-90f31bc81b54",
+    "userId" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "foodName" : "Gamburger",
+    "amount" : 2,
+    "price" : 16000
+  },
+  "date" : 1641160240755,
+  "overall" : 16002
+}, {
+  "id" : "888571d8-c873-4c0c-ab43-1549c7935b45",
+  "fullName" : null,
+  "createdDate" : 1641160256481,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "fullName" : "Норбиби",
+    "createdDate" : 1641160165585,
+    "updatedDate" : 1641160165585,
+    "userRole" : "USER",
+    "smsCode" : "290029",
+    "chatId" : "1133674969",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998919570566"
+  },
+  "product" : {
+    "basketId" : "19d8b49d-986d-4b29-a56e-1d0efeb6ec14",
+    "userId" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "foodName" : "Lavash1",
+    "amount" : 6,
+    "price" : 19000
+  },
+  "date" : 1641160256481,
+  "overall" : 19006
+}, {
+  "id" : "13e0d134-1904-4b2c-ad76-12bbe94f2657",
+  "fullName" : null,
+  "createdDate" : 1641160300248,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "fullName" : "Норбиби",
+    "createdDate" : 1641160165585,
+    "updatedDate" : 1641160165585,
+    "userRole" : "USER",
+    "smsCode" : "290029",
+    "chatId" : "1133674969",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998919570566"
+  },
+  "product" : {
+    "basketId" : "bb3633dc-e52e-40d6-bae1-b866ce191bac",
+    "userId" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "foodName" : "Roll",
+    "amount" : 1,
+    "price" : 18000
+  },
+  "date" : 1641160300248,
+  "overall" : 18001
+}, {
+  "id" : "c8ea00e0-2346-4196-837d-3a1d90847a37",
+  "fullName" : null,
+  "createdDate" : 1641160334669,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "fullName" : "Норбиби",
+    "createdDate" : 1641160165585,
+    "updatedDate" : 1641160165585,
+    "userRole" : "USER",
+    "smsCode" : "290029",
+    "chatId" : "1133674969",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998919570566"
+  },
+  "product" : {
+    "basketId" : "19d8b49d-986d-4b29-a56e-1d0efeb6ec14",
+    "userId" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+    "foodName" : "Lavash1",
+    "amount" : 1,
+    "price" : 19000
+  },
+  "date" : 1641160334669,
+  "overall" : 19001
+}, {
+  "id" : "d431e88d-a241-4f94-b13f-b05ff8d73ef6",
+  "fullName" : null,
+  "createdDate" : 1641160748878,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "fullName" : "Raider™",
+    "createdDate" : 1641159665176,
+    "updatedDate" : 1641159665176,
+    "userRole" : "USER",
+    "smsCode" : "302649",
+    "chatId" : "923320761",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998976192979"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "foodName" : "Steak",
+    "amount" : 1,
+    "price" : 65000
+  },
+  "date" : 1641160748878,
+  "overall" : 65001
+}, {
+  "id" : "36e5e715-0ab4-4d79-8867-83bc67e7bf42",
+  "fullName" : null,
+  "createdDate" : 1641161711775,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "ca1004b6-825d-4d7b-9060-00b11be10f06",
+    "fullName" : "Sanjar",
+    "createdDate" : 1641161676813,
+    "updatedDate" : 1641161676813,
+    "userRole" : "USER",
+    "smsCode" : "541461",
+    "chatId" : "5039837290",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998900046722"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "ca1004b6-825d-4d7b-9060-00b11be10f06",
+    "foodName" : "Pitsa1",
+    "amount" : 2,
+    "price" : 50000
+  },
+  "date" : 1641161711775,
+  "overall" : 50002
+}, {
+  "id" : "fca89734-72c8-49e8-909e-a7fec2855c72",
+  "fullName" : null,
+  "createdDate" : 1641474525588,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "6a7866c3-93be-4708-bcb3-48318bdad908",
+    "fullName" : "ᵏʰᵒˡᵐᵃᵏʰᵐᵃᵗᵒᵛ-ᵃ",
+    "createdDate" : 1641474421474,
+    "updatedDate" : 1641474421474,
+    "userRole" : "USER",
+    "smsCode" : "163810",
+    "chatId" : "1258550420",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "+998975873700"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "6a7866c3-93be-4708-bcb3-48318bdad908",
+    "foodName" : "Pitsa1",
+    "amount" : 3,
+    "price" : 50000
+  },
+  "date" : 1641474525588,
+  "overall" : 50003
+}, {
+  "id" : "7a62c26c-00bc-4dda-9e67-726a81509c99",
+  "fullName" : null,
+  "createdDate" : 1641710045502,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "88f1e216-d6fc-41ae-97d9-14fa2a8c488e",
+    "fullName" : "Javokhirbek",
+    "createdDate" : 1641708284829,
+    "updatedDate" : 1641708284829,
+    "userRole" : "USER",
+    "smsCode" : "689472",
+    "chatId" : "1256524322",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998997834961"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "88f1e216-d6fc-41ae-97d9-14fa2a8c488e",
+    "foodName" : "Steak",
+    "amount" : 2,
+    "price" : 65000
+  },
+  "date" : 1641710045502,
+  "overall" : 65002
+}, {
+  "id" : "129a8ecd-80f2-45eb-b9c6-2b8be20646a6",
+  "fullName" : null,
+  "createdDate" : 1641710083877,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "88f1e216-d6fc-41ae-97d9-14fa2a8c488e",
+    "fullName" : "Javokhirbek",
+    "createdDate" : 1641708284829,
+    "updatedDate" : 1641708284829,
+    "userRole" : "USER",
+    "smsCode" : "689472",
+    "chatId" : "1256524322",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998997834961"
+  },
+  "product" : {
+    "basketId" : "995a54b9-75bb-48e0-9930-90f31bc81b54",
+    "userId" : "88f1e216-d6fc-41ae-97d9-14fa2a8c488e",
+    "foodName" : "Gamburger",
+    "amount" : 1,
+    "price" : 16000
+  },
+  "date" : 1641710083877,
+  "overall" : 16001
+}, {
+  "id" : "2fbb372a-985d-4e90-afa1-e766e463dda4",
+  "fullName" : null,
+  "createdDate" : 1641717671172,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "4cab0d87-7b24-4056-9eb1-f1baa374d152",
+    "fullName" : "Sarvar",
+    "createdDate" : 1641717624278,
+    "updatedDate" : 1641717624278,
+    "userRole" : "USER",
+    "smsCode" : "911750",
+    "chatId" : "1118602444",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998997904888"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "4cab0d87-7b24-4056-9eb1-f1baa374d152",
+    "foodName" : "Pitsa1",
+    "amount" : 1,
+    "price" : 50000
+  },
+  "date" : 1641717671172,
+  "overall" : 50001
+}, {
+  "id" : "8c389b29-10ba-4bcb-a850-1c0e7a12dd31",
+  "fullName" : null,
+  "createdDate" : 1641717719500,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "4cab0d87-7b24-4056-9eb1-f1baa374d152",
+    "fullName" : "Sarvar",
+    "createdDate" : 1641717624278,
+    "updatedDate" : 1641717624278,
+    "userRole" : "USER",
+    "smsCode" : "911750",
+    "chatId" : "1118602444",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998997904888"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "4cab0d87-7b24-4056-9eb1-f1baa374d152",
+    "foodName" : "Pitsa1",
+    "amount" : 1,
+    "price" : 50000
+  },
+  "date" : 1641717719500,
+  "overall" : 50001
+}, {
+  "id" : "5ed74ecb-9ab1-4560-8ebc-2c434be03e8c",
+  "fullName" : null,
+  "createdDate" : 1641729731471,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "fullName" : "Raider™",
+    "createdDate" : 1641159665176,
+    "updatedDate" : 1641159665176,
+    "userRole" : "USER",
+    "smsCode" : "302649",
+    "chatId" : "923320761",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998976192979"
+  },
+  "product" : {
+    "basketId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+    "userId" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "foodName" : "Steak",
+    "amount" : 5,
+    "price" : 65000
+  },
+  "date" : 1641729731471,
+  "overall" : 65005
+}, {
+  "id" : "5ea29b38-444a-4bee-baf4-88ea1abaf57a",
+  "fullName" : null,
+  "createdDate" : 1641729801163,
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "fullName" : "Raider™",
+    "createdDate" : 1641159665176,
+    "updatedDate" : 1641159665176,
+    "userRole" : "USER",
+    "smsCode" : "302649",
+    "chatId" : "923320761",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : null,
+    "phoneNumber" : "998976192979"
+  },
+  "product" : {
+    "basketId" : "51522514-2265-4738-9031-09773039091d",
+    "userId" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+    "foodName" : "Pepsi",
+    "amount" : 3,
+    "price" : 11000
+  },
+  "date" : 1641729801163,
+  "overall" : 11003
+} ]

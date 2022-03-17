@@ -1,0 +1,78 @@
+[ {
+  "id" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37",
+  "fullName" : null,
+  "createdDate" : 1640307644415,
+  "updatedDate" : null,
+  "categoryName" : "Pitsa",
+  "activeFoodType" : true
+}, {
+  "id" : "995a54b9-75bb-48e0-9930-90f31bc81b54",
+  "fullName" : null,
+  "createdDate" : 1640307649143,
+  "updatedDate" : null,
+  "categoryName" : "Burgers",
+  "activeFoodType" : true
+}, {
+  "id" : "bb3633dc-e52e-40d6-bae1-b866ce191bac",
+  "fullName" : null,
+  "createdDate" : 1640307654641,
+  "updatedDate" : null,
+  "categoryName" : "Rolls",
+  "activeFoodType" : true
+}, {
+  "id" : "19d8b49d-986d-4b29-a56e-1d0efeb6ec14",
+  "fullName" : null,
+  "createdDate" : 1640307659927,
+  "updatedDate" : null,
+  "categoryName" : "Lavash",
+  "activeFoodType" : true
+}, {
+  "id" : "51522514-2265-4738-9031-09773039091d",
+  "fullName" : null,
+  "createdDate" : 1640307671371,
+  "updatedDate" : null,
+  "categoryName" : "Drinks",
+  "activeFoodType" : true
+}, {
+  "id" : "d5d4e31a-2ab3-44d6-8593-ded969c628ee",
+  "fullName" : null,
+  "createdDate" : 1641474582623,
+  "updatedDate" : null,
+  "categoryName" : "Non",
+  "activeFoodType" : true
+}, {
+  "id" : "984432c2-b8d5-4466-8f56-1627b2950bfc",
+  "fullName" : null,
+  "createdDate" : 1641709356691,
+  "updatedDate" : null,
+  "categoryName" : "Desert",
+  "activeFoodType" : true
+}, {
+  "id" : "ebd95044-bb26-4bfc-9b43-064bdd5238ea",
+  "fullName" : null,
+  "createdDate" : 1641709379237,
+  "updatedDate" : null,
+  "categoryName" : "Xaggi",
+  "activeFoodType" : true
+}, {
+  "id" : "1f3eb6fa-8309-4eb3-815b-8d7ed4b6cbe9",
+  "fullName" : null,
+  "createdDate" : 1641709391425,
+  "updatedDate" : null,
+  "categoryName" : "Kartoshka",
+  "activeFoodType" : true
+}, {
+  "id" : "25d82f51-ee13-43a8-a249-b429fa2cf0af",
+  "fullName" : null,
+  "createdDate" : 1641729192579,
+  "updatedDate" : null,
+  "categoryName" : "Coffee",
+  "activeFoodType" : true
+}, {
+  "id" : "dc3b8df4-8893-4751-93aa-4286128064d4",
+  "fullName" : null,
+  "createdDate" : 1641729891968,
+  "updatedDate" : null,
+  "categoryName" : "/start",
+  "activeFoodType" : true
+} ]

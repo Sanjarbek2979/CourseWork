@@ -1,0 +1,161 @@
+[ {
+  "id" : "8df34ccc-415d-45bc-97b1-8b63797cfa2a",
+  "fullName" : null,
+  "createdDate" : 1640308099619,
+  "updatedDate" : null,
+  "name" : "Pitsa1",
+  "description" : "3 kishilik pitsa",
+  "price" : 50000,
+  "activeFood" : true,
+  "categoryId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37"
+}, {
+  "id" : "f8c63662-ac68-4ff4-b828-949d04560c87",
+  "fullName" : null,
+  "createdDate" : 1640308133404,
+  "updatedDate" : null,
+  "name" : "BigBurger",
+  "description" : "Big burgerda bu kattasi :)",
+  "price" : 25000,
+  "activeFood" : true,
+  "categoryId" : "995a54b9-75bb-48e0-9930-90f31bc81b54"
+}, {
+  "id" : "26e29b26-e6ad-4be0-9b63-d2c09602095c",
+  "fullName" : null,
+  "createdDate" : 1640308222018,
+  "updatedDate" : null,
+  "name" : "Lavash1",
+  "description" : "Lavash s sezar",
+  "price" : 19000,
+  "activeFood" : true,
+  "categoryId" : "19d8b49d-986d-4b29-a56e-1d0efeb6ec14"
+}, {
+  "id" : "4e258859-6e53-42cd-807d-869794fcc9ef",
+  "fullName" : null,
+  "createdDate" : 1640308247914,
+  "updatedDate" : null,
+  "name" : "Gamburger",
+  "description" : "Gamburger boladi yaxshi o'rtacha",
+  "price" : 16000,
+  "activeFood" : true,
+  "categoryId" : "995a54b9-75bb-48e0-9930-90f31bc81b54"
+}, {
+  "id" : "8e146e3e-8998-4f1c-b7f3-e0d7be219d96",
+  "fullName" : null,
+  "createdDate" : 1640308729781,
+  "updatedDate" : null,
+  "name" : "Pepsi",
+  "description" : "Pepsi 1.5l",
+  "price" : 11000,
+  "activeFood" : true,
+  "categoryId" : "51522514-2265-4738-9031-09773039091d"
+}, {
+  "id" : "4402eef4-d5ee-4157-83fb-32a453c2cb9d",
+  "fullName" : null,
+  "createdDate" : 1640308758521,
+  "updatedDate" : null,
+  "name" : "Cola",
+  "description" : "Coca-cola 1.5l",
+  "price" : 11000,
+  "activeFood" : true,
+  "categoryId" : "51522514-2265-4738-9031-09773039091d"
+}, {
+  "id" : "95de4be1-1370-4270-ac0e-8499a61f0ffb",
+  "fullName" : null,
+  "createdDate" : 1640308776175,
+  "updatedDate" : null,
+  "name" : "Roll",
+  "description" : "sdfghjk",
+  "price" : 18000,
+  "activeFood" : true,
+  "categoryId" : "bb3633dc-e52e-40d6-bae1-b866ce191bac"
+}, {
+  "id" : "1abd228f-a472-48fd-85f7-0c5d51149ca8",
+  "fullName" : null,
+  "createdDate" : 1641159521659,
+  "updatedDate" : null,
+  "name" : "Steak",
+  "description" : "Steak fransuzkiy",
+  "price" : 65000,
+  "activeFood" : true,
+  "categoryId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37"
+}, {
+  "id" : "09864d6c-8ff7-432f-ab2a-5c7ba6a7ac6a",
+  "fullName" : null,
+  "createdDate" : 1641161937105,
+  "updatedDate" : null,
+  "name" : "Fanta",
+  "description" : "1.5L",
+  "price" : 10000,
+  "activeFood" : true,
+  "categoryId" : "51522514-2265-4738-9031-09773039091d"
+}, {
+  "id" : "7753a919-e8ba-49d4-a0c1-9d71eeaf3140",
+  "fullName" : null,
+  "createdDate" : 1641709493834,
+  "updatedDate" : null,
+  "name" : "Chizkeyk",
+  "description" : "Chizkeyk mazali",
+  "price" : 12000,
+  "activeFood" : true,
+  "categoryId" : "984432c2-b8d5-4466-8f56-1627b2950bfc"
+}, {
+  "id" : "60ed5615-851d-4fc5-aff3-bc62e65caf33",
+  "fullName" : null,
+  "createdDate" : 1641709553664,
+  "updatedDate" : null,
+  "name" : "Turkcha non",
+  "description" : "Turkcha sariyogli non",
+  "price" : 3000,
+  "activeFood" : true,
+  "categoryId" : "d5d4e31a-2ab3-44d6-8593-ded969c628ee"
+}, {
+  "id" : "359ac18e-6aee-4590-aa08-371ca324f76d",
+  "fullName" : null,
+  "createdDate" : 1641709674555,
+  "updatedDate" : null,
+  "name" : "Fri",
+  "description" : "Odatiy fri",
+  "price" : 9000,
+  "activeFood" : true,
+  "categoryId" : "1f3eb6fa-8309-4eb3-815b-8d7ed4b6cbe9"
+}, {
+  "id" : "a0d0b94e-b583-4092-956c-4217bff47412",
+  "fullName" : null,
+  "createdDate" : 1641709712414,
+  "updatedDate" : null,
+  "name" : "Kartofel po derevenskiy",
+  "description" : "Yangilangan fri",
+  "price" : 12000,
+  "activeFood" : true,
+  "categoryId" : "1f3eb6fa-8309-4eb3-815b-8d7ed4b6cbe9"
+}, {
+  "id" : "cb9d7a98-1b8c-448b-8bce-ae6d88c53866",
+  "fullName" : null,
+  "createdDate" : 1641709820903,
+  "updatedDate" : null,
+  "name" : "Xaggi",
+  "description" : "Xaggi turkcha",
+  "price" : 25000,
+  "activeFood" : true,
+  "categoryId" : "ebd95044-bb26-4bfc-9b43-064bdd5238ea"
+}, {
+  "id" : "38db35a0-b6d8-4bf6-9caf-b32c0c0abcd3",
+  "fullName" : null,
+  "createdDate" : 1641709931247,
+  "updatedDate" : null,
+  "name" : "Pitsa 6 kishilik",
+  "description" : "6 kishiga moljallangan pitsa",
+  "price" : 150000,
+  "activeFood" : true,
+  "categoryId" : "3e3d8f97-e2b7-4ddf-ac45-d72d8567eb37"
+}, {
+  "id" : "04dc1183-044d-46a7-b165-07d9ef2d27dc",
+  "fullName" : null,
+  "createdDate" : 1641729996656,
+  "updatedDate" : null,
+  "name" : "Chips",
+  "description" : "yeyish ucun",
+  "price" : 5000,
+  "activeFood" : true,
+  "categoryId" : "1f3eb6fa-8309-4eb3-815b-8d7ed4b6cbe9"
+} ]

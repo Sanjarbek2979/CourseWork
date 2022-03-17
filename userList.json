@@ -1,0 +1,89 @@
+[ {
+  "id" : "3886980f-3118-461f-aa58-5392cbdefba5",
+  "fullName" : "Allayev Sanjar",
+  "createdDate" : 1641157500712,
+  "updatedDate" : 1641157500712,
+  "userRole" : "ADMIN",
+  "smsCode" : "846107",
+  "chatId" : "550130149",
+  "userState" : "MAIN_MENU",
+  "location" : null,
+  "phoneNumber" : "+998973124699"
+}, {
+  "id" : "7fd95d2a-3e51-4cbc-9fb7-7107ff7b9abc",
+  "fullName" : "Raider™",
+  "createdDate" : 1641159665176,
+  "updatedDate" : 1641159665176,
+  "userRole" : "USER",
+  "smsCode" : "302649",
+  "chatId" : "923320761",
+  "userState" : "MAIN_MENU",
+  "location" : null,
+  "phoneNumber" : "998976192979"
+}, {
+  "id" : "23065968-abcd-4473-9f4a-d2d2f0264134",
+  "fullName" : "Норбиби",
+  "createdDate" : 1641160165585,
+  "updatedDate" : 1641160165585,
+  "userRole" : "USER",
+  "smsCode" : "290029",
+  "chatId" : "1133674969",
+  "userState" : "CHANGE_PRODUCT",
+  "location" : null,
+  "phoneNumber" : "998919570566"
+}, {
+  "id" : "ca1004b6-825d-4d7b-9060-00b11be10f06",
+  "fullName" : "Sanjar",
+  "createdDate" : 1641161676813,
+  "updatedDate" : 1641161676813,
+  "userRole" : "USER",
+  "smsCode" : "541461",
+  "chatId" : "5039837290",
+  "userState" : "MAIN_MENU",
+  "location" : null,
+  "phoneNumber" : "998900046722"
+}, {
+  "id" : "6a7866c3-93be-4708-bcb3-48318bdad908",
+  "fullName" : "ᵏʰᵒˡᵐᵃᵏʰᵐᵃᵗᵒᵛ-ᵃ",
+  "createdDate" : 1641474421474,
+  "updatedDate" : 1641474421474,
+  "userRole" : "USER",
+  "smsCode" : "163810",
+  "chatId" : "1258550420",
+  "userState" : "FOODS",
+  "location" : null,
+  "phoneNumber" : "+998975873700"
+}, {
+  "id" : "88f1e216-d6fc-41ae-97d9-14fa2a8c488e",
+  "fullName" : "Javokhirbek",
+  "createdDate" : 1641708284829,
+  "updatedDate" : 1641708284829,
+  "userRole" : "USER",
+  "smsCode" : "689472",
+  "chatId" : "1256524322",
+  "userState" : "MAIN_MENU",
+  "location" : null,
+  "phoneNumber" : "998997834961"
+}, {
+  "id" : "4cab0d87-7b24-4056-9eb1-f1baa374d152",
+  "fullName" : "Sarvar",
+  "createdDate" : 1641717624278,
+  "updatedDate" : 1641717624278,
+  "userRole" : "USER",
+  "smsCode" : "911750",
+  "chatId" : "1118602444",
+  "userState" : "MAIN_MENU",
+  "location" : null,
+  "phoneNumber" : "998997904888"
+}, {
+  "id" : "597934d6-013d-46b4-8cde-cc821c0e7ea6",
+  "fullName" : "Jöraqulov",
+  "createdDate" : 1641729706561,
+  "updatedDate" : 1641729706561,
+  "userRole" : "USER",
+  "smsCode" : "24333",
+  "chatId" : "1411561011",
+  "userState" : "GET_SMS_CODE",
+  "location" : null,
+  "phoneNumber" : "+998909741228"
+} ]
